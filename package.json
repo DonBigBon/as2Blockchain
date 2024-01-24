@@ -1,0 +1,15 @@
+{
+  "name": "bc2",
+  "version": "1.0.0",
+  "description": "2nd assignment of blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniyar",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "web3": "^1.0.0-beta.55"
+  }
+}
